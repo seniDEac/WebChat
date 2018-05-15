@@ -1,0 +1,1 @@
+http://qnimate.com/facebook-style-chat-box-popup-using-javascript-and-css/
